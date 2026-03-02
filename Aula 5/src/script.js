@@ -22,14 +22,12 @@ switch (operacao) {
         if (numero2 === 0) {
             alert("Não pode divir por 0");
             window.location.reload();
-            break;
         }else{
             alert("A divisão da operação é: " + (numero1 / numero2));
-            break;
         }
+        break;
         
     default:
         alert("Digite um número válido!!!!");
         window.location.reload();
-        break;
 };
