@@ -2,7 +2,7 @@
 const times = ["São Paulo", "Corinthians", "Flamengo", "Fluminense"];
 
 
-// Utilizando indexOf()
+// Utilizando indexOf();
 let possicaoItem = times.indexOf("Flamengo");
 
 console.log(times);
