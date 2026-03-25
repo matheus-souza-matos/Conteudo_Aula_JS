@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  background-color: ghostwhite;
+}
+
+.ativo {
+  color: orangered;
+}
+
+.info {
+  color: red;
+}
